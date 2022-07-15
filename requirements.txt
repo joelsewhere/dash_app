@@ -78,7 +78,7 @@ dask==2.1.0
 decorator==4.4.0
 defusedxml==0.6.0
 descartes==1.1.0
-distributed==2.1.0
+distributed==2021.10.0
 Django==2.2.6
 django-bootstrap4==1.1.1
 django-plotly-dash==1.1.5
