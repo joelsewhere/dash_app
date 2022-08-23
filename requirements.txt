@@ -217,7 +217,7 @@ multipledispatch==0.6.0
 munch==2.3.2
 murmurhash==1.0.0
 navigator-updater==0.2.1
-nbconvert==5.5.0
+nbconvert==6.5.1
 nbformat==4.4.0
 nbserverproxy==0.8.8
 networkx==2.3
