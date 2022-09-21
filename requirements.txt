@@ -184,7 +184,7 @@ jupyter-nbextensions-configurator==0.4.1
 jupyter-plotly-dash==0.4.2
 jupyterlab==1.0.2
 jupyterlab-server==1.0.0
-jwcrypto==0.7
+jwcrypto==1.4
 Keras==2.2.4
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
