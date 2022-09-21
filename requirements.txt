@@ -303,7 +303,7 @@ pytest-runner==5.2
 python-dateutil==2.8.0
 python-dotenv==0.10.3
 python-editor==1.0.4
-python-jwt==3.2.6
+python-jwt==3.3.4
 python-Levenshtein==0.12.0
 python-pptx==0.6.18
 pytz==2019.1
